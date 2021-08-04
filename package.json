@@ -1,5 +1,5 @@
 {
-  "name": "node-clima",
+  "name": "node-clima-api",
   "version": "0.0.1",
   "description": "CLI que mostra o clima de uma cidade em tempo real",
   "preferGlobal": true,
